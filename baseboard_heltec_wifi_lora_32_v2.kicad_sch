@@ -1,0 +1,21 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "fb0a90d4-a782-4a8a-a857-51a0b2856a38")
+	(paper "A4")
+	(title_block
+		(title "Baseboard for Heltec WiFi LoRa 32 V2 board")
+		(date "2025-05-23")
+		(rev "v0.1.0")
+		(company "AgroTechLab")
+		(comment 1 "Author: Robson Costa (robson.costa@ifsc.edu.br)")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
